@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BarcodeScannerApp</string>
+    <string name="id">id</string>
+    <string name="scan_date">Scan date</string>
+    <string name="scan_data">Scan data</string>
+    <string name="data">Data</string>
+    <string name="scan">Scan</string>
+    <string name="scan_something">Scanning</string>
+    <string name="view_data">View data</string>
+</resources>
